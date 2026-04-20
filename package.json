@@ -1,0 +1,25 @@
+{
+  "name": "ahmed-mohamed-said---sun-wed-8-11_assignment6-_01211179795",
+  "version": "1.0.0",
+  "description": "",
+  "main": "file.js",
+  "scripts": {
+    "start:dev": "node --watch src/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/S3iid/Ahmed-mohamed-said---sun-wed-8-11_Assignment6_01211179795.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/S3iid/Ahmed-mohamed-said---sun-wed-8-11_Assignment6_01211179795/issues"
+  },
+  "homepage": "https://github.com/S3iid/Ahmed-mohamed-said---sun-wed-8-11_Assignment6_01211179795#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "mysql2": "^3.22.1"
+  }
+}
